@@ -1,0 +1,14 @@
+{
+  "name": "okcoders-backend-2019-week2",
+  "version": "1.0.0",
+  "description": "Practice with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB"
+  ],
+  "author": "Bob Rockers <rrockers@gmail.com>",
+  "license": "ISC"
+}
